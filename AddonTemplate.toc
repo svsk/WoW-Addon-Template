@@ -1,0 +1,9 @@
+## Interface: 90002
+## Title: AddonTemplate
+## Author: Veinlash @ Karazhan-EU
+## Version: 90002
+## SavedVariables: AddonTemplateSaved
+
+AddonTemplate.lua
+Storage.lua
+Logging.lua

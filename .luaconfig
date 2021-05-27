@@ -1,0 +1,3 @@
+indent_width: 4
+keep_simple_control_block_one_line: false
+column_limit: 120
